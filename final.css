@@ -3,43 +3,47 @@
 .header {
 	height: auto;
 	font-weight: bold;
-	font-size: 50px;
-	background-color: black;
+	font-size: 30px;
+	background-color: seagreen;
 	color: white;
 	text-align: center;
 	font-family: 'Georgia', serif;
 	margin-top: 0px;
 }
-
 h2 {
 	margin-top: 0px;
+	color: white;
+
 }
 #dek {
 	font-style: italic;
-	font-size: 40px;
+	font-size: 30px;
 	font-family: 'Georgia', serif;
 }
 #image {
 	float: right;
+	padding: 1%;
 }
 img {
-	margin-right: 0%;
-	margin-left: 10%;
-	margin-top: 0%;
-	opacity: .5;
+/*	margin-right: 0%;*/
+/*	margin-left: 0%;*/
+/*	margin-top: 0%;*/
+/*	float: right;*/
 }
 figcaption {
 	color: darkgray;
 	text-align: center;
-	margin-left: 5%;
+/*	margin-left: 5%;*/
 	color: black;
+/*	float: right;*/
 }
 p {
 	font-family: 'Times New Roman', sans-serif;
 	font-size: 20px;
+	margin-right: 5%;
 }
 h4 {
-	font-size: 20px;
+	font-size: 30px;
 	font-family: 'Oswald', sans-serif;
 	font-weight: bold;
 }
